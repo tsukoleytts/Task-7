@@ -1,0 +1,15 @@
+# Addition
+result_addition = 9 + 4
+print("Addition:", result_addition)
+
+# Subtraction
+result_subtraction = 8 - 5
+print("Subtraction:", result_subtraction)
+
+# Multiplication
+result_multiplication = 9 * 6
+print("Multiplication:", result_multiplication)
+
+# Division
+result_division = 40 / 2
+print("Division:", result_division)
